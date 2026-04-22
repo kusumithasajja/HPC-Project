@@ -1,4 +1,4 @@
-## rHPC K-Means (Serial / OpenMP / CUDA+MPI)
+## HPC K-Means (Serial / OpenMP / CUDA+MPI)
 
 This folder contains:
 - **`kmeans_serial.cpp`**: serial k-means
